@@ -1,0 +1,1 @@
+'l''k'Key.upKey.shift_rKey.deleteKey.shift_rKey.enterKey.upKey.upKey.shift_rKey.deleteKey.shift_rKey.enterKey.enter'P''R''O''J''E''C''T'Key.space'I''M''P''L''E''M''E''N''T''E''D'Key.shiftKey.enterKey.downKey.shift_rKey.backspaceKey.backspaceKey.ctrl_lKey.ctrl_l's'Key.print_screenKey.alt_lKey.cmd
